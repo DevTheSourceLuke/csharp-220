@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\X1\\Google Drive\\School\\CHSP 220 B\\csharp-client-lb\\HellowWorld\\HellowWorld\\HellowWorld.csproj": {}
+    "C:\\Users\\X1\\Google Drive\\School\\CHSP 220 B\\csharp-220\\Homework1\\HellowWorld\\HellowWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\X1\\Google Drive\\School\\CHSP 220 B\\csharp-client-lb\\HellowWorld\\HellowWorld\\HellowWorld.csproj": {
+    "C:\\Users\\X1\\Google Drive\\School\\CHSP 220 B\\csharp-220\\Homework1\\HellowWorld\\HellowWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\X1\\Google Drive\\School\\CHSP 220 B\\csharp-client-lb\\HellowWorld\\HellowWorld\\HellowWorld.csproj",
+        "projectUniqueName": "C:\\Users\\X1\\Google Drive\\School\\CHSP 220 B\\csharp-220\\Homework1\\HellowWorld\\HellowWorld.csproj",
         "projectName": "HellowWorld",
-        "projectPath": "C:\\Users\\X1\\Google Drive\\School\\CHSP 220 B\\csharp-client-lb\\HellowWorld\\HellowWorld\\HellowWorld.csproj",
+        "projectPath": "C:\\Users\\X1\\Google Drive\\School\\CHSP 220 B\\csharp-220\\Homework1\\HellowWorld\\HellowWorld.csproj",
         "packagesPath": "C:\\Users\\X1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\X1\\Google Drive\\School\\CHSP 220 B\\csharp-client-lb\\HellowWorld\\HellowWorld\\obj\\",
+        "outputPath": "C:\\Users\\X1\\Google Drive\\School\\CHSP 220 B\\csharp-220\\Homework1\\HellowWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\X1\\AppData\\Roaming\\NuGet\\NuGet.Config",
