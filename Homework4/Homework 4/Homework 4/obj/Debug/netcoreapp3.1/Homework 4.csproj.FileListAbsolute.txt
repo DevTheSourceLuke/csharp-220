@@ -1,0 +1,17 @@
+C:\Users\X1\Google Drive\School\CHSP 220 B\csharp-220\Homework4\Homework 4\Homework 4\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\X1\Google Drive\School\CHSP 220 B\csharp-220\Homework4\Homework 4\Homework 4\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\X1\Google Drive\School\CHSP 220 B\csharp-220\Homework4\Homework 4\Homework 4\obj\Debug\netcoreapp3.1\Homework 4_MarkupCompile.cache
+C:\Users\X1\Google Drive\School\CHSP 220 B\csharp-220\Homework4\Homework 4\Homework 4\obj\Debug\netcoreapp3.1\Homework 4_MarkupCompile.lref
+C:\Users\X1\Google Drive\School\CHSP 220 B\csharp-220\Homework4\Homework 4\Homework 4\bin\Debug\netcoreapp3.1\Homework 4.exe
+C:\Users\X1\Google Drive\School\CHSP 220 B\csharp-220\Homework4\Homework 4\Homework 4\bin\Debug\netcoreapp3.1\Homework 4.deps.json
+C:\Users\X1\Google Drive\School\CHSP 220 B\csharp-220\Homework4\Homework 4\Homework 4\bin\Debug\netcoreapp3.1\Homework 4.runtimeconfig.json
+C:\Users\X1\Google Drive\School\CHSP 220 B\csharp-220\Homework4\Homework 4\Homework 4\bin\Debug\netcoreapp3.1\Homework 4.runtimeconfig.dev.json
+C:\Users\X1\Google Drive\School\CHSP 220 B\csharp-220\Homework4\Homework 4\Homework 4\bin\Debug\netcoreapp3.1\Homework 4.dll
+C:\Users\X1\Google Drive\School\CHSP 220 B\csharp-220\Homework4\Homework 4\Homework 4\bin\Debug\netcoreapp3.1\Homework 4.pdb
+C:\Users\X1\Google Drive\School\CHSP 220 B\csharp-220\Homework4\Homework 4\Homework 4\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\X1\Google Drive\School\CHSP 220 B\csharp-220\Homework4\Homework 4\Homework 4\obj\Debug\netcoreapp3.1\Homework 4.g.resources
+C:\Users\X1\Google Drive\School\CHSP 220 B\csharp-220\Homework4\Homework 4\Homework 4\obj\Debug\netcoreapp3.1\Homework 4.AssemblyInfoInputs.cache
+C:\Users\X1\Google Drive\School\CHSP 220 B\csharp-220\Homework4\Homework 4\Homework 4\obj\Debug\netcoreapp3.1\Homework 4.AssemblyInfo.cs
+C:\Users\X1\Google Drive\School\CHSP 220 B\csharp-220\Homework4\Homework 4\Homework 4\obj\Debug\netcoreapp3.1\Homework 4.dll
+C:\Users\X1\Google Drive\School\CHSP 220 B\csharp-220\Homework4\Homework 4\Homework 4\obj\Debug\netcoreapp3.1\Homework 4.pdb
+C:\Users\X1\Google Drive\School\CHSP 220 B\csharp-220\Homework4\Homework 4\Homework 4\obj\Debug\netcoreapp3.1\Homework 4.csprojAssemblyReference.cache

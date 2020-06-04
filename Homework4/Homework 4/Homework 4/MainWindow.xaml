@@ -1,0 +1,15 @@
+﻿<Window x:Class="Homework_4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Homework_4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    
+    <StackPanel x:Name="uxContainer">
+        <TextBlock>Enter ZipCode:</TextBlock>
+        <TextBox x:Name="uxZipCode" PreviewTextInput="uxZipCode_PreviewTextInput" TextChanged="uxSubmit_Enabled" Text="{Binding ZipCode}"/>
+        <Button x:Name="uxSubmit" Click="uxSubmit_Click" Content="Submit" Width="100"></Button>
+    </StackPanel>
+</Window>
